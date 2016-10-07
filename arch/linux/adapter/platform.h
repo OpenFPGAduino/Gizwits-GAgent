@@ -33,7 +33,7 @@
 #define WIFI_SOFTVAR    "04020006"
 #define WIFI_HARDVER    "000LINUX"
 
-#define UART_NAME       "/dev/ttyUSB0"
+#define UART_NAME       "/dev/tty"
 #define NET_ADAPTHER    "eth0"
 
 extern void msleep(int m_seconds);
